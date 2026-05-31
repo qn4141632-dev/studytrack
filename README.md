@@ -1,1 +1,1 @@
-https://studytrack-uiz2.vercel.app/#dashboard
+https://studytrack-mzds.vercel.app/#login
