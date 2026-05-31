@@ -1,1 +1,1 @@
-https://studytrack-sigma.vercel.app/#dashboard
+https://studytrack-ryas.vercel.app/
